@@ -1,4 +1,4 @@
-package com.junee.jung.springboottest;
+package com.junee.jung.springboottest.multipleMap;
 
 import org.springframework.util.LinkedMultiValueMap;
 import org.springframework.util.MultiValueMap;
