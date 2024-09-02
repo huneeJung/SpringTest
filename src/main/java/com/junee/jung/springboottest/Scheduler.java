@@ -13,7 +13,7 @@ public class Scheduler {
 
     private final AsyncTest asyncTest;
 
-    @Scheduled(initialDelay = 10,fixedDelay = 200000)
+//    @Scheduled(initialDelay = 10,fixedDelay = 200000)
     public void start(){
         var size = 1000000000;
         var startIndex = 0;
